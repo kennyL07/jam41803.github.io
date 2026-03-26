@@ -1,19 +1,17 @@
 # Table of contents
 
-* [FRC](README.md)
+* [2158 VEX Knowledgebase](README.md)
 
-## Sensors
+## Design
 
-* [Page 1](sensors/page-1.md)
+## Building
 
-## Motors
+## Programming
 
-* [Page 2](motors/page-2.md)
+* [Programming Languages](programming/programming-languages.md)
 
-## Subsystems
+## Team
 
-* [Page 3](subsystems/page-3.md)
-
-## API
-
-* [Page 4](api/page-4.md)
+* [Engineering Notebooks](team/engineering_notebook/README.md)
+  * [Early Game Review](team/engineering_notebook/game_review.md)
+  * [Team Management](team/engineering_notebook/team_managment.md)
