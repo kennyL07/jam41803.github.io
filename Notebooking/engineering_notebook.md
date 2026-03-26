@@ -36,7 +36,7 @@ Show every possible solution and design that you've come up with. Always include
 
 ## **Select Solution:**
 
-Selecting a solution is the final step where you weighed each solution with its ability to fulfill the requirements declared in [Define the Problem](./#define-the-problem). Using a table chart with mechanisms vs. requirements is usually what happens but you can always be different. Some requirements are worth more than others, make sure to account of this and adjust it in your chart.
+Selecting a solution is the final step where you weighed each solution with its ability to fulfill the requirements declared in [Define the Problem](engineering_notebook.md#define-the-problem). Using a table chart with mechanisms vs. requirements is usually what happens but you can always be different. Some requirements are worth more than others, make sure to account of this and adjust it in your chart.
 
 ## **Design + Build:**
 
