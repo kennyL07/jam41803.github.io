@@ -17,3 +17,7 @@
 ## API
 
 * [Page 4](api/page-4.md)
+
+## Theory
+
+* [Page 5](theory/page-5.md)
