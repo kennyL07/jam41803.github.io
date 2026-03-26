@@ -16,6 +16,6 @@
 
 ## Team
 
-* [Engineering Notebooks](Notebooking/engineering_notebook.md)
-  * [Early Game Review](Notebooking/game_review.md)
-  * [Team Management](Notebooking/team_managment.md)
+* [Engineering Notebooks](team/engineering_notebook/README.md)
+  * [Early Game Review](team/engineering_notebook/game_review.md)
+  * [Team Management](team/engineering_notebook/team_managment.md)
